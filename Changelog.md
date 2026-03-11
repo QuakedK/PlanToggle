@@ -20,3 +20,13 @@
 - PlanToggle Done Screen
 
 ---
+
+**PlanToggle V1.1**
+
+3/11/26 <3
+
+*Fixed/Added*
+- Fixed/Added ANSI Green variable.
+- Fixed/Added ANSI White variable.
+
+---
