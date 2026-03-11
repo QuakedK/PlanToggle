@@ -8,7 +8,7 @@ A simple Quaked Power Plan importer and Context Menu Switcher. Designed for swap
 # Usage
 Simply follow the quick and easy steps below ↓
 
-1. Download [PlanToggle](https://github.com/QuakedK/PlanToggle/releases/download/Powerplan/PlanToggle-V1.0.bat).
+1. Download [PlanToggle](https://github.com/QuakedK/PlanToggle/releases/download/Powerplanwindows/PlanToggle-V1.1.bat).
 2. Right-click & run it as admin, everything else is automatic!
 
 # Revert 
