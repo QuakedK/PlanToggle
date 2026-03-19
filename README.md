@@ -26,3 +26,18 @@ rd /s /q "C:\Power Plans"
 ```
 2. Click Windows Key + R and Paste ```powercfg.cpl``` into the run box.
 3. Now you can remove the Quaked Power Plans by simply, clicking "Change Plan Settings" and clicking "Delete This Plan."
+
+# Power Plan Changes 
+```
+it's the basic Ultimate Performance with the following changes!
+
+Allow Away Mode Policy: No
+Allow Standby States: Off
+Allow Hybrid Sleep: Off
+Allow Throttle States: Off
+USB 3 Link Power Management:  Off
+USB selective suspend setting: Disabled
+Processor performance core parking min cores: 100
+Processor performance time check interval: 5000
+Processor idle disable: enable idle or disable idle, depending on the plan chosen.
+```
